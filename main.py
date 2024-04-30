@@ -16,3 +16,5 @@
 # # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 import string
 print(string.punctuation)
+
+#alteracao no repositorio local
